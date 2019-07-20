@@ -1,5 +1,5 @@
 def new_hash
-  
+  pets = []
 end
 
 def actor
